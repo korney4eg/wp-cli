@@ -10,5 +10,4 @@ attribute :sensitive, :kind_of => [TrueClass, FalseClass], :default => false
 
 def initialize(*args)
   super
-  @run_context.include_recipe 'wp-cli'
 end

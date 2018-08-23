@@ -1,6 +1,10 @@
 wp-cli CHANGELOG
 ================
 
+0.1.5
+-----
+- DIO-85593 remove unsupported command
+
 0.1.4
 -----
 
